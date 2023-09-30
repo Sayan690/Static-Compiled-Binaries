@@ -1,0 +1,4 @@
+# links to the online cheatsheets
+-> https://redtm.com/privilege-escalation/linux-privilege-escalation-cheat-sheet/
+-> https://book.hacktricks.xyz/linux-hardening/linux-privilege-escalation-checklist
+-> https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md
